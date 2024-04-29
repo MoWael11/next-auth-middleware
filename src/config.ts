@@ -1,1 +1,1 @@
-export const ACCESS_EXPIRES_IN = 20000; // 20 sec
+export const ACCESS_EXPIRES_IN = 10000 // 20 sec
